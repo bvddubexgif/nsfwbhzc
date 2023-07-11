@@ -2,15 +2,15 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'c664751b-b662-48f9-b2aa-2f0d4d337a7f'}
+UUID=${UUID:-'a0642c8b-4413-4bdd-9324-e51072aa7f50'}
 
 # 其他Paas保活
-PAAS1_URL=
-PAAS2_URL=
-PAAS3_URL=
-PAAS4_URL=
-PAAS5_URL=
-PAAS6_URL=
+PAAS1_URL=https://80-27c55a2637ac4f0782a17813d69aa2e4.onpatr.cloud
+PAAS2_URL=https://80-0268a472b9fd4970bebcbb9e745bf634.onpatr.cloud
+PAAS3_URL=https://80-27ca35cfd7ec49f8bbfbf3b03e572c31.onpatr.cloud
+PAAS4_URL=https://80-96e651e63ec240d28d3d1d76311a4d20.onpatr.cloud
+PAAS5_URL=https://80-1ee0b04023d94b1989e3c0f0b087772f.onpatr.cloud
+PAAS6_URL=https://80-3a0df8082c724ea9a8f33f693994247c.onpatr.cloud
 
 # koyeb账号保活
 KOYEB_ACCOUNT=
